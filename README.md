@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of the location based encoding (LBE) method for protein feature extraction. The LBE method generates a fixed-sized feature vector for a given amino acid sequence, regardless of the length of the sequence.
 
-Usage
+# Usage
 To use the LBE method, simply import the LBE function from the LBE.py file and pass in a protein sequence and the desired length of the feature vector as arguments. The returned value will be a 1D numpy array containing the generated feature vector.
 
 
